@@ -7,7 +7,7 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
   https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
 
 * [Analise2](#AnalisepowerBI)
-  <img width="1295" height="701" alt="image" src="https://github.com/user-attachments/assets/bef3904b-4fdf-4a8b-a43b-d44731da0fc8" /> 
+  
   
 * [Analise3](#Analiseexcel)
   
