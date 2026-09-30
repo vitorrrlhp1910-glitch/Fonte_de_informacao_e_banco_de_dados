@@ -54,7 +54,7 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-## Analise1
+## Analise 1
 
 foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
 Analise feitas:
@@ -67,7 +67,7 @@ Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais emp
 por dedução  analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
 
 
-## Analise2
+## Analise 2
 
 
 2) Dados abertos: Power BI
@@ -101,7 +101,7 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
 
 
 
-## Analise3
+## Analise 3
 
 
 
