@@ -108,7 +108,7 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
    3)Dados abertos: Excel
 
 
-    <img width="687" height="563" alt="image" src="https://github.com/user-attachments/assets/7b312dfa-0ba7-4d9a-8090-04cf68b7a485" />
+   <img width="687" height="563" alt="image" src="https://github.com/user-attachments/assets/7b312dfa-0ba7-4d9a-8090-04cf68b7a485" />
 
    <img width="679" height="478" alt="image" src="https://github.com/user-attachments/assets/fa5d8338-661d-44ba-aeda-5b2061c54be7" />
 
