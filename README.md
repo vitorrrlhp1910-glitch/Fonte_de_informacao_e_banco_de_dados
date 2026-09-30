@@ -4,7 +4,9 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 Índice 
 
 * [Analise1](#Analis)
-  https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
+
+
+ https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
 
 * [Analise2](#AnalisepowerBI)
   
@@ -52,7 +54,7 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-## Analise
+## Analise1
 
 foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
 Analise feitas:
@@ -64,6 +66,8 @@ Analise feitas:
 Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que São José dos Campos (4)
 por dedução  analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
 
+
+## Analise2
 
 
 2) Dados abertos: Power BI
@@ -96,6 +100,8 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
     A base possui 1.382 empresas/registros
 
 
+
+## Analise3
 
 
 
