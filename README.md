@@ -4,12 +4,14 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 Índice 
 
 * [Analise1](#Analis)
+  https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
 
 * [Analise2](#AnalisepowerBI)
+  <img width="1295" height="701" alt="image" src="https://github.com/user-attachments/assets/bef3904b-4fdf-4a8b-a43b-d44731da0fc8" /> 
   
 * [Analise3](#Analiseexcel)
   
-https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
+
 
 
 
@@ -61,6 +63,7 @@ Analise feitas:
 
 Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que São José dos Campos (4)
 por dedução  analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
+
 
 
 2) Dados abertos: Power BI
