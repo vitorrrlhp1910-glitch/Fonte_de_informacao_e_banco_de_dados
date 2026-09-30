@@ -3,9 +3,11 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 Índice 
 
-* [Analise](#AnalisepowerBI)
+* [Analise1](#Analis)
+
+* [Analise2](#AnalisepowerBI)
   
-* [Analise](#Analiseexcel)
+* [Analise3](#Analiseexcel)
   
 https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
 
