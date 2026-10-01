@@ -110,13 +110,16 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
   IMAGEM 1
    
    
-   <img width="687" height="563" alt="image" src="https://github.com/user-attachments/assets/7b312dfa-0ba7-4d9a-8090-04cf68b7a485" />
+ <img width="701" height="556" alt="image" src="https://github.com/user-attachments/assets/81eddf44-e9fe-4506-956d-ec4c19b43df7" />
+
+
    
    
   IMAGEM 2
 
    
-   <img width="679" height="478" alt="image" src="https://github.com/user-attachments/assets/fa5d8338-661d-44ba-aeda-5b2061c54be7" />
+<img width="700" height="480" alt="image" src="https://github.com/user-attachments/assets/4af181d4-aed4-46be-8a6c-0a785eca8394" />
+
 
    
    1-Quantas empresas multimodal existem no estado de MG Mato Grosso 
