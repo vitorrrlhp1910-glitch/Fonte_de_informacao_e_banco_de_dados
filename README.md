@@ -82,9 +82,9 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
 
 
 2) Dados abertos: Power BI
-   <img width="1295" height="701" alt="image" src="https://github.com/user-attachments/assets/bef3904b-4fdf-4a8b-a43b-d44731da0fc8" />
-   PERGUNTAS
- 
+
+<img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/7744584d-b471-419c-9e8d-a476395b1c15" />
+
    1- Qual estado possui a maior quantidade de empresas de transporte multimodal ?
 
    RESPOSTA:
