@@ -67,11 +67,10 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 ## Analise 1
 
 
-Essa planilha apresenta dados de Operadores de Transporte Multimodal, disponibilizados pelo Governo Federal. Ela reúne informações cadastrais dos operadores, como empresa, CNPJ, localização, contato, registro e período de vigência.
 
-
-foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
+Foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
 Analise feitas:
+
 1) Quantas OTM`S existem em cada cidade do Brasil ?
    
    
@@ -82,6 +81,8 @@ por dedução  analisando o resultado deve-se a geografia ao polo industrial e i
 
 
 ## Analise 2
+
+Essa planilha apresenta dados de Operadores de Transporte Multimodal, disponibilizados pelo Governo Federal. Ela reúne informações cadastrais dos operadores, como empresa, CNPJ, localização, contato, registro e período de vigência.
 
 
 2) Dados abertos: Power BI
