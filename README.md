@@ -26,7 +26,12 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-** [Analise4](#Analiseexcel)
+* [Analise4](#Analiseexcel)
+
+
+
+
+-https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Rlgelaboca.ipynb
 
 
 
