@@ -170,3 +170,8 @@ Essa planilha apresenta dados de Operadores de Transporte Multimodal, disponibil
 
     RESPOSTA-1.382
 
+
+
+
+<img width="896" height="550" alt="image" src="https://github.com/user-attachments/assets/1e7a5f60-3a17-4d1b-9d54-37e1a20d22b9" />
+
