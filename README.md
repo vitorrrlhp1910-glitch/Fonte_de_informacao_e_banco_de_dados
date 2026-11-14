@@ -182,8 +182,16 @@ Essa planilha apresenta dados de Operadores de Transporte Multimodal, disponibil
 
 
 
-prova questão 3
+AVALIAÇÃO
+ATIVIDADE 3
+
+
 <img width="720" height="439" alt="image" src="https://github.com/user-attachments/assets/e8467e35-5759-47d9-89ef-fa243e977df8" />
 
+
+ATIVIDADE 4 
+
+
+VIDEOS POSTADO NOS ARQUIVOS 
 
 
