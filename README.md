@@ -46,7 +46,7 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
--https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202026-11-13%20215935.mp4
+- https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202026-11-13%20215935.mp4
 
 
 
