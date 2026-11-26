@@ -30,19 +30,27 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-
 - https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Rlgelaboca.ipynb
-
 
 
 
 *[Analise5](#Analiseexcel)
 
 
+
+-
+
+
+
+*[Analise6](#Analiseexcel)
+
+
+
 -https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202026-11-13%20215935.mp4
 
 
 
+*[Analise7](#Analiseexcel)
 
 
 
@@ -188,16 +196,39 @@ Essa planilha apresenta dados de Operadores de Transporte Multimodal, disponibil
 
 
 
-AVALIAÇÃO
-ATIVIDADE 3
+## Analise 5
+
+
+
+Atividade 3 da prova de banco de dados 
+
 
 
 <img width="720" height="439" alt="image" src="https://github.com/user-attachments/assets/e8467e35-5759-47d9-89ef-fa243e977df8" />
 
 
-ATIVIDADE 4 
+
+## Analise 6
 
 
-VIDEOS POSTADO NOS ARQUIVOS 
+vídeo postado nos arquivos para prova 
+
+ 
+-https://github.com/vitorrrlhp1910-glitch/Fonte_de_informacao_e_banco_de_dados/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202026-11-13%20215935.mp4
+
+
+
+## Analise 7 
+
+
+
+Certificado do curso Aplicação do Power BI para Aprimoramento da Gestão 
+
+
+<img width="1119" height="792" alt="image" src="https://github.com/user-attachments/assets/63f4fdc1-9987-4d08-9cd2-095a7dac12b1" />
+
+<img width="1120" height="791" alt="image" src="https://github.com/user-attachments/assets/bd1f57b3-7071-46ea-9ad7-c0ec6fa2c87a" />
+
+ 
 
 
