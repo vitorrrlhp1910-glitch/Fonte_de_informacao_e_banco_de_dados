@@ -34,15 +34,15 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-*[Analise5](#Analiseexcel)
+* [Analise5](#Analiseexcel)
 
 
 
--
+- 
 
 
 
-*[Analise6](#Analiseexcel)
+* [Analise6](#Analiseexcel)
 
 
 
@@ -50,7 +50,7 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 
 
-*[Analise7](#Analiseexcel)
+* [Analise7](#Analiseexcel)
 
 
 
